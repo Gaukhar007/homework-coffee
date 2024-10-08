@@ -1,0 +1,139 @@
+
+body{
+    background-color: #ede8e1;
+}
+
+h1{
+    margin:0;
+    padding: 0;
+    margin-top: 0px;
+    background-image: url(coffee.jpg);
+    font-family :'Courier New', Courier, monospace;
+    font-style: normal;
+    font-weight: 400px;
+    text-align: center;
+    font-size: 80px;
+    height: 400px;
+    color:#53363a;
+    padding-top: 80px;
+}
+h3{
+    font-family:'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 100;
+    text-align: center;
+    font-size: x-large;
+    color:#41292c;
+}
+
+
+
+ul li{
+    color: #e3bb97;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 1px;
+    text-decoration: none;
+    list-style: none;
+}
+
+a{
+    color: #305940;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.container{
+    padding:0 px;
+    background-color: #ede8e1
+}
+
+.green{
+    background-color: #99c39a;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+}
+
+
+.light{
+    background-color: #a96342;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    color: white;
+}
+
+.city{
+    background-color: #96582e;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+}
+
+.vienna{
+    background-color: #af4040;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+}
+
+.italian{
+    background-color: #191919;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+}
+
+h5{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 300;
+}
+
+h4{
+color: white;
+font-family: 'Times New Roman', Times, serif;
+font-style: normal;
+font-weight: 800;
+}
+
+
+h2,p{
+    color: 98938e;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    color: #e3bb97;
+}
+hr{
+    color: #f5dac1;
+}
+.roasting{
+    margin-top: 100px;
+    background-color: #ffffff ;
+    padding: 60px;
+    color:#98938e;
+    font-size: 20px;
+    
+}
+
